@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://c7h6o2.top</id>
+    <title>苯甲酸小屋</title>
+    <subtitle>ԅ(¯﹃¯ԅ)欢迎</subtitle>
+    <icon>https://c7h6o2.top/images/favicon.ico</icon>
+    <link href="https://c7h6o2.top" />
+    <author>
+      <name>wuming</name>
+    </author>
+    <updated>2023-04-08T05:28:25.000Z</updated>
+    <category term="计算机" />
+    <category term="科普" />
+    <category term="知识" />
+    <entry>
+        <id>https://c7h6o2.top/Aboutme/</id>
+        <title>关于小破站与我</title>
+        <link rel="alternate" href="https://c7h6o2.top/Aboutme/"/>
+        <content type="html"></content>
+        <updated>2023-04-08T05:28:25.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://c7h6o2.top/23-03-22-Tool-StaticWebByGithub/</id>
+        <title>23-03-22-Tool-StaticWebByGithub</title>
+        <link rel="alternate" href="https://c7h6o2.top/23-03-22-Tool-StaticWebByGithub/"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/wMTOShRDG5gbzsP.jpg&#34; alt=&#34;1.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/WGs4Sxfm7hRkpbH.jpg&#34; alt=&#34;2.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/uOQCrpjAEYbg534.jpg&#34; alt=&#34;3.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/FgOB7mR4sox153P.jpg&#34; alt=&#34;4.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/m6gZOEaXTeQx4Hj.jpg&#34; alt=&#34;5.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/FVR3Aak1O8Iwxbo.jpg&#34; alt=&#34;6.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/GHML1EStoglFm6c.jpg&#34; alt=&#34;7.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/r16SEKqAPQjC4JX.jpg&#34; alt=&#34;8.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/2lFPNRmp4ewxVoU.jpg&#34; alt=&#34;9.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/zQrLBo4fRFJntKA.jpg&#34; alt=&#34;10.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/4tXmx6j8zCMySeu.jpg&#34; alt=&#34;11.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/ulTNeVsJ4jbDHid.jpg&#34; alt=&#34;12.jpg&#34; /&gt;&lt;/p&gt;
+</content>
+        <updated>2023-03-29T14:07:19.000Z</updated>
+    </entry>
+</feed>

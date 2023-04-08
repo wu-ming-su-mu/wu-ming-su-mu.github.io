@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>苯甲酸小屋</title>
+        <subtitle>ԅ(¯﹃¯ԅ)欢迎</subtitle>
+        <icon>https://c7h6o2.top/images/favicon.ico</icon>
+        <link>https://c7h6o2.top</link>
+        <author>
+          <name>wuming</name>
+        </author>
+        <description>一个致力于科普计算机知识与介绍优秀软件并提供教程的小破站&#39;&#39;</description>
+        <language>zh-CN</language>
+        <pubDate>Sat, 08 Apr 2023 13:28:25 +0800</pubDate>
+        <lastBuildDate>Sat, 08 Apr 2023 13:28:25 +0800</lastBuildDate>
+        <category term="计算机" />
+        <category term="科普" />
+        <category term="知识" />
+        <item>
+            <guid isPermalink="true">https://c7h6o2.top/Aboutme/</guid>
+            <title>关于小破站与我</title>
+            <link>https://c7h6o2.top/Aboutme/</link>
+            <pubDate>Sat, 08 Apr 2023 13:28:25 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://c7h6o2.top/23-03-22-Tool-StaticWebByGithub/</guid>
+            <title>23-03-22-Tool-StaticWebByGithub</title>
+            <link>https://c7h6o2.top/23-03-22-Tool-StaticWebByGithub/</link>
+            <pubDate>Wed, 29 Mar 2023 22:07:19 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/wMTOShRDG5gbzsP.jpg&#34; alt=&#34;1.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/WGs4Sxfm7hRkpbH.jpg&#34; alt=&#34;2.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/uOQCrpjAEYbg534.jpg&#34; alt=&#34;3.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/FgOB7mR4sox153P.jpg&#34; alt=&#34;4.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/m6gZOEaXTeQx4Hj.jpg&#34; alt=&#34;5.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/FVR3Aak1O8Iwxbo.jpg&#34; alt=&#34;6.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/GHML1EStoglFm6c.jpg&#34; alt=&#34;7.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/r16SEKqAPQjC4JX.jpg&#34; alt=&#34;8.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/2lFPNRmp4ewxVoU.jpg&#34; alt=&#34;9.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/zQrLBo4fRFJntKA.jpg&#34; alt=&#34;10.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/4tXmx6j8zCMySeu.jpg&#34; alt=&#34;11.jpg&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://s2.loli.net/2023/04/08/ulTNeVsJ4jbDHid.jpg&#34; alt=&#34;12.jpg&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
